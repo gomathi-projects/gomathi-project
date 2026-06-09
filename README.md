@@ -89,4 +89,4 @@ B.Sc Computer Science (2024–2027)
 ---
 
 ## 🌈 FOOTER
-Generated GitHub Profile README
+Generated GitHub Profile README.
